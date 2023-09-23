@@ -1,0 +1,29 @@
+.banner-container{
+  background-image:url("https://ik.imagekit.io/q3306owcq/bg_geCdHbrTA.png?ik-sdk-version=javascript-1.4.3&updatedAt=1663514541115");
+  height:70vh;
+  background-size: cover;
+  background-attachment: fixed;
+  text-align: center;
+  padding: 160px 15px;
+}
+.abc{
+  text-align:center;
+  color:black;
+}
+.city-heading{
+  text-align: center;
+}
+.img{
+  border-radius: 40px;
+  borger-color:black;
+  padding:10px;
+}
+.city-search{
+  width: 500px;
+}
+.input-city{
+  text-align:center ;
+}
+body{
+  position:relative;
+}
